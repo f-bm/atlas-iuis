@@ -38,7 +38,7 @@ def http_json(method, url, headers, payload=None, timeout=120):
 def call_gemini(prompt):
     if not GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY manquante.")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent?key={GEMINI_API_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-pro-preview:generateContent?key={GEMINI_API_KEY}"
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "tools": [{"google_search": {}}],
