@@ -1,0 +1,146 @@
+{
+  "notion_database_id": "41e27562-91a0-81de-ae73-dbd4df2eb6b9",
+  "notion_quiz_page_id": "41e27562-91a0-8197-a5b8-c3dc03672ce4",
+  "items": [
+    {
+      "num": "001",
+      "week": 1,
+      "day": "J1",
+      "name": "Agammaglobulinémie liée à l'X (XLA / Maladie de Bruton)",
+      "gene": "BTK",
+      "table": "III.1",
+      "notion_search": "BTK",
+      "status": "done"
+    },
+    {
+      "num": "002",
+      "week": 1,
+      "day": "J2",
+      "name": "Déficit immunitaire commun variable (DICV / CVID)",
+      "gene": "Polygénique / NFKB1",
+      "table": "III.2",
+      "notion_search": "Common variable immune deficiency",
+      "status": "done"
+    },
+    {
+      "num": "003",
+      "week": 1,
+      "day": "J3",
+      "name": "Déficit immunitaire combiné sévère lié à l'X (SCID-X1)",
+      "gene": "IL2RG",
+      "table": "I.1",
+      "notion_search": "IL2RG",
+      "status": "pending"
+    },
+    {
+      "num": "004",
+      "week": 1,
+      "day": "J4",
+      "name": "Granulomatose septique chronique (CGD)",
+      "gene": "CYBB",
+      "table": "V.3",
+      "notion_search": "CYBB",
+      "status": "pending"
+    },
+    {
+      "num": "005",
+      "week": 1,
+      "day": "J5",
+      "name": "Syndrome de DiGeorge / Délétion 22q11.2",
+      "gene": "TBX1",
+      "table": "II.3",
+      "notion_search": "DiGeorge",
+      "status": "pending"
+    },
+    {
+      "num": "006",
+      "week": 1,
+      "day": "J6",
+      "name": "Syndrome de Wiskott-Aldrich (WAS)",
+      "gene": "WAS",
+      "table": "II.1",
+      "notion_search": "Wiskott-Aldrich",
+      "status": "pending"
+    },
+    {
+      "num": "007",
+      "week": 1,
+      "day": "J7",
+      "name": "Syndrome d'hyper-IgE autosomique dominant (AD-HIES / Job)",
+      "gene": "STAT3",
+      "table": "II.5",
+      "notion_search": "STAT3",
+      "status": "pending"
+    },
+    {
+      "num": "008",
+      "week": 2,
+      "day": "J8",
+      "name": "Déficit en RAG1 / RAG2 (SCID T-B-NK+ & Syndrome d'Omenn)",
+      "gene": "RAG1",
+      "table": "I.2",
+      "notion_search": "RAG1",
+      "status": "pending"
+    },
+    {
+      "num": "009",
+      "week": 2,
+      "day": "J9",
+      "name": "Syndrome d'hyper-IgM lié à l'X (Déficit en CD40L)",
+      "gene": "CD40LG",
+      "table": "I.3",
+      "notion_search": "CD40LG",
+      "status": "pending"
+    },
+    {
+      "num": "010",
+      "week": 2,
+      "day": "J10",
+      "name": "Ataxie-télangiectasie",
+      "gene": "ATM",
+      "table": "II.2",
+      "notion_search": "ATM",
+      "status": "pending"
+    },
+    {
+      "num": "011",
+      "week": 2,
+      "day": "J11",
+      "name": "Déficit en adénosine désaminase (ADA-SCID)",
+      "gene": "ADA",
+      "table": "I.2",
+      "notion_search": "ADA",
+      "status": "pending"
+    },
+    {
+      "num": "012",
+      "week": 2,
+      "day": "J12",
+      "name": "Syndrome PI3Kδ activé (APDS1 / APDS2)",
+      "gene": "PIK3CD",
+      "table": "III.3",
+      "notion_search": "PIK3CD",
+      "status": "pending"
+    },
+    {
+      "num": "013",
+      "week": 2,
+      "day": "J13",
+      "name": "Déficit sélectif en IgA (SIgAD)",
+      "gene": "Polygénique",
+      "table": "III.4",
+      "notion_search": "Selective IgA",
+      "status": "pending"
+    },
+    {
+      "num": "014",
+      "week": 2,
+      "day": "J14",
+      "name": "Fièvre méditerranéenne familiale (FMF)",
+      "gene": "MEFV",
+      "table": "VII.1",
+      "notion_search": "MEFV",
+      "status": "pending"
+    }
+  ]
+}
