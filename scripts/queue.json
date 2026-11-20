@@ -30,7 +30,8 @@
       "gene": "IL2RG",
       "table": "I.1",
       "notion_search": "IL2RG",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-20"
     },
     {
       "num": "004",
