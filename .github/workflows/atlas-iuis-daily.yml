@@ -17,6 +17,10 @@ permissions:
 jobs:
   daily-iei-fiche:
     runs-on: ubuntu-latest
+    env:
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+      MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -46,7 +50,7 @@ jobs:
           fi
 
       - name: Send email notification (optional, if SMTP secrets configured)
-        if: ${{ secrets.MAIL_USERNAME != '' && secrets.MAIL_PASSWORD != '' && secrets.MAIL_TO != '' }}
+        if: env.MAIL_USERNAME != '' && env.MAIL_PASSWORD != '' && env.MAIL_TO != ''
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
