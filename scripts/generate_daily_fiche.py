@@ -38,15 +38,24 @@ def http_json(method, url, headers, payload=None, timeout=120):
 def call_gemini(prompt):
     if not GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY manquante.")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-pro-preview:generateContent?key={GEMINI_API_KEY}"
+    models = ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-3.1-pro-preview"]
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "tools": [{"google_search": {}}],
         "generationConfig": {"temperature": 0.2},
     }
-    res = http_json("POST", url, {"Content-Type": "application/json"}, payload, timeout=180)
-    parts = res["candidates"][0]["content"]["parts"]
-    return "".join(p.get("text", "") for p in parts).strip()
+    last_err = None
+    for model in models:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_API_KEY}"
+        try:
+            res = http_json("POST", url, {"Content-Type": "application/json"}, payload, timeout=180)
+            parts = res["candidates"][0]["content"]["parts"]
+            print(f"Modèle utilisé : {model}")
+            return "".join(p.get("text", "") for p in parts).strip()
+        except Exception as e:
+            print(f"Échec sur {model} : {e}")
+            last_err = e
+    raise last_err
 
 
 # ==================== NOTION HELPERS ====================
