@@ -41,7 +41,8 @@
       "gene": "CYBB",
       "table": "V.3",
       "notion_search": "CYBB",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-20"
     },
     {
       "num": "005",

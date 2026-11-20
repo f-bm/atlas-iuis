@@ -1,5 +1,5 @@
 Nouvelle fiche Atlas IUIS 2024 disponible !
 
-Fiche #003 (J3, Semaine 1) : Déficit immunitaire combiné sévère lié à l'X (SCID-X1) (IL2RG)
-Table IUIS : I.1
-Lien Notion : https://app.notion.com/p/gc-deficiency-common-gamma-chain-SCID-CD132-deficiency-IL2RG-41e2756291a081a5b8f9db1256cf2f54
+Fiche #004 (J4, Semaine 1) : Granulomatose septique chronique (CGD) (CYBB)
+Table IUIS : V.3
+Lien Notion : https://app.notion.com/p/Macrophage-gp91-phox-deficiency-CYBB-41e2756291a08103babee0eeb66b28cf
