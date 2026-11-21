@@ -52,7 +52,8 @@
       "gene": "TBX1",
       "table": "II.3",
       "notion_search": "DiGeorge",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-21"
     },
     {
       "num": "006",

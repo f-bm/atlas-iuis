@@ -1,5 +1,5 @@
 Nouvelle fiche Atlas IUIS 2024 disponible !
 
-Fiche #004 (J4, Semaine 1) : Granulomatose septique chronique (CGD) (CYBB)
-Table IUIS : V.3
-Lien Notion : https://app.notion.com/p/Macrophage-gp91-phox-deficiency-CYBB-41e2756291a08103babee0eeb66b28cf
+Fiche #005 (J5, Semaine 1) : Syndrome de DiGeorge / Délétion 22q11.2 (TBX1)
+Table IUIS : II.3
+Lien Notion : https://app.notion.com/p/DiGeorge-velocardiofacial-syndrome-Unknown-environment-41e2756291a081cfa9dad4001f42da1a
