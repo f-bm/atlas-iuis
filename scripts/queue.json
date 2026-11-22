@@ -63,7 +63,8 @@
       "gene": "WAS",
       "table": "II.1",
       "notion_search": "Wiskott-Aldrich",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-22"
     },
     {
       "num": "007",
