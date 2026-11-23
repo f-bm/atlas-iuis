@@ -1,5 +1,5 @@
 Nouvelle fiche Atlas IUIS 2024 disponible !
 
-Fiche #006 (J6, Semaine 1) : Syndrome de Wiskott-Aldrich (WAS) (WAS)
-Table IUIS : II.1
-Lien Notion : https://app.notion.com/p/Wiskott-Aldrich-syndrome-WAS-LOF-41e2756291a0818fa3f6ca6d8e072c25
+Fiche #007 (J7, Semaine 1) : Syndrome d'hyper-IgE autosomique dominant (AD-HIES / Job) (STAT3)
+Table IUIS : II.5
+Lien Notion : https://app.notion.com/p/STAT3-GOF-mutation-41e2756291a081189174cda54d211b80

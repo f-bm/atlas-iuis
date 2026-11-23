@@ -74,7 +74,8 @@
       "gene": "STAT3",
       "table": "II.5",
       "notion_search": "STAT3",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-23"
     },
     {
       "num": "008",
