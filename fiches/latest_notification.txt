@@ -1,5 +1,5 @@
 Nouvelle fiche Atlas IUIS 2024 disponible !
 
-Fiche #007 (J7, Semaine 1) : Syndrome d'hyper-IgE autosomique dominant (AD-HIES / Job) (STAT3)
-Table IUIS : II.5
-Lien Notion : https://app.notion.com/p/STAT3-GOF-mutation-41e2756291a081189174cda54d211b80
+Fiche #008 (J8, Semaine 2) : Déficit en RAG1 / RAG2 (SCID T-B-NK+ & Syndrome d'Omenn) (RAG1)
+Table IUIS : I.2
+Lien Notion : https://app.notion.com/p/RAG1-deficiency-41e2756291a081e4a5d5c124a370a28d

@@ -85,7 +85,8 @@
       "gene": "RAG1",
       "table": "I.2",
       "notion_search": "RAG1",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-24"
     },
     {
       "num": "009",
