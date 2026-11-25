@@ -96,7 +96,8 @@
       "gene": "CD40LG",
       "table": "I.3",
       "notion_search": "CD40LG",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-25"
     },
     {
       "num": "010",
