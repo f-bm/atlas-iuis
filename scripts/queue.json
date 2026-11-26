@@ -107,7 +107,8 @@
       "gene": "ATM",
       "table": "II.2",
       "notion_search": "ATM",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-26"
     },
     {
       "num": "011",

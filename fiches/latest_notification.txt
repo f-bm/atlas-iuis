@@ -1,5 +1,5 @@
 Nouvelle fiche Atlas IUIS 2024 disponible !
 
-Fiche #009 (J9, Semaine 2) : Syndrome d'hyper-IgM lié à l'X (Déficit en CD40L) (CD40LG)
-Table IUIS : I.3
-Lien Notion : https://app.notion.com/p/CD40-ligand-deficiency-CD154-CD40LG-TNFSF5-41e2756291a08163aec9dcac6f594794
+Fiche #010 (J10, Semaine 2) : Ataxie-télangiectasie (ATM)
+Table IUIS : II.2
+Lien Notion : https://app.notion.com/p/Ataxia-telangiectasia-ATM-41e2756291a08190aff9cd34784d3cce
