@@ -118,7 +118,8 @@
       "gene": "ADA",
       "table": "I.2",
       "notion_search": "ADA",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-27"
     },
     {
       "num": "012",
