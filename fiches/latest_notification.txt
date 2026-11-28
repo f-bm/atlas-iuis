@@ -1,5 +1,5 @@
 Nouvelle fiche Atlas IUIS 2024 disponible !
 
-Fiche #011 (J11, Semaine 2) : Déficit en adénosine désaminase (ADA-SCID) (ADA)
-Table IUIS : I.2
-Lien Notion : https://app.notion.com/p/Retinal-dystrophy-optic-nerve-oedema-splenomegaly-anhidrosis-and-headache-ROSAH-ALPK1-41e2756291a0817ca983df8f36fa872c
+Fiche #012 (J12, Semaine 2) : Syndrome PI3Kδ activé (APDS1 / APDS2) (PIK3CD)
+Table IUIS : III.3
+Lien Notion : https://app.notion.com/p/PIK3CD-mutation-GOF-APDS1-PIK3CD-GOF-41e2756291a0813cb812d508417e70a4

@@ -129,7 +129,8 @@
       "gene": "PIK3CD",
       "table": "III.3",
       "notion_search": "PIK3CD",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-11-28"
     },
     {
       "num": "013",
